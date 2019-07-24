@@ -1,0 +1,26 @@
+<annotation>
+  <folder>traning</folder>
+  <filename>86</filename>
+  <path>G:\project 3\traning\86.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>960</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cockroach</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>524</xmin>
+      <ymin>349</ymin>
+      <xmax>957</xmax>
+      <ymax>474</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>291</filename>
+  <path>G:\project 3\test\291.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>720</width>
+    <height>960</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cockroach</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>135</xmin>
+      <ymin>162</ymin>
+      <xmax>565</xmax>
+      <ymax>325</ymax>
+    </bndbox>
+  </object>
+</annotation>
